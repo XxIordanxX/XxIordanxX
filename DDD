@@ -1,0 +1,7 @@
+#include<iostream>
+usingnamespace std;
+int main{
+double x,y;
+
+
+}
